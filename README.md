@@ -1,7 +1,5 @@
 ESP32 DHT11 Data Logger
 
-Replace this with an actual image or screenshot of your project
-
 Overview
 This project utilizes an ESP32 microcontroller along with a DHT11 temperature and humidity sensor to log environmental data over time. The data is displayed in real-time on a web server hosted by the ESP32 and can be accessed via a web browser. This repository contains the Arduino sketch for the ESP32, which logs temperature and humidity readings and displays them graphically using Chart.js.
 
