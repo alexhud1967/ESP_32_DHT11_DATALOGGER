@@ -18,7 +18,7 @@ WiFi connection for hosting the web server and uploading data
 Chart.js library for data visualization
 Installation and Setup
 Clone the Repository:
-
+https://github.com/alexhud1967/ESP_32_DHT11_DATALOGGER.git
 
 
 
